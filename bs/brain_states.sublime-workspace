@@ -103,7 +103,17 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 32011,
+				"buffer_size": 40479,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ashkarav/michaellukiman.com/index.html",
+			"settings":
+			{
+				"buffer_size": 5770,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -115,10 +125,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 190.0,
-		"last_filter": "install",
+		"height": 97.0,
+		"last_filter": "backgr",
 		"selected_items":
 		[
+			[
+				"backgr",
+				"BackgroundColorEdit: Set Background Color"
+			],
+			[
+				"backgro",
+				"BackgroundColorEdit: Set Background Color"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -180,7 +198,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 497.0
+		"width": 461.0
 	},
 	"console":
 	{
@@ -200,6 +218,7 @@
 	},
 	"file_history":
 	[
+		"/home/ashkarav/michaellukiman.com/index.html",
 		"/home/ashkarav/transparent-terr/table_year_vs_numbers.html",
 		"/home/ashkarav/transparent-terr/output_find_all_tables.py",
 		"/home/ashkarav/transparent-terr/view-source_https___en.wikipedia.org_wiki_Terrorism_in_the_United_States.html",
@@ -220,7 +239,6 @@
 		"/home/ashkarav/Courant/assembly.txt",
 		"/home/ashkarav/Courant/main_dump.txt",
 		"/home/ashkarav/michaellukiman.com/education/index.html",
-		"/home/ashkarav/michaellukiman.com/index.html",
 		"/home/ashkarav/Downloads/Courant_FA/hw8_main",
 		"/home/ashkarav/Downloads/substring_ML.py",
 		"/home/ashkarav/0_PRIMING_NECESSARY/response to pierogi.html",
@@ -386,7 +404,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -395,15 +413,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 32011,
+						"buffer_size": 40479,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								29816,
+								29816
 							]
 						],
 						"settings":
@@ -412,7 +430,36 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 741.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/ashkarav/michaellukiman.com/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2940,
+								2940
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -427,7 +474,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"layout":
 	{
